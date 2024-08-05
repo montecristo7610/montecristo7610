@@ -1,5 +1,5 @@
 <a href="https://readme-typing-svg.demolab.com/demo/">
-<img src="https://readme-typing-svg.demolab.com/?lines=%20Fullstack%20&amp%20AI%20developer;%207%20years%20of%20experience;>%20Always%20learning%20new%20things&font=Fira%20Code&width=440&height=45&color=f75c7e&background=161B22FF&vCenter=true&pause=1000&size=15" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=%20Fullstack%20and%20AI%20developer;%20%20%207%20years%20of%20experience&font=Fira%20Code&width=350&height=45&color=#2ecc71&vCenter=true&pause=3000&size=16"/></a><br>
 I am a highly competent and solution-driven professional Fullstack & AI developer and advanced mathematician with excellent educational background and progressive experience in the field of web application development by delivering exceptional services. 
 
 With over 7 years of experience at the intersection of Web development, AI, and advanced mathematics, I bring a unique blend of technical expertise and analytical skill to every project. 
@@ -7,13 +7,13 @@ As a seasoned Web and AI Developer and Mathematician, I specialize in creating i
 
 ➤ My skills includes:
 
-✅React, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript, HTML, CSS
-✅Python, Django, Node.js, PHP, Laravel, WordPress
-✅MySQL, MongoDB, PostgreSQL, Firebase
-✅Shopify,  AWS, GCP, Heroku, Digital Ocean
-✅C++, C#, R, Matlab
-✅TensorFlow, Pytorch, Pandas, NumPy
-✅Metatrader, Ninjatrader, Tradingview
+✅React, Next.js, Vue.js, Nuxt.js, TypeScript, JavaScript, HTML, CSS<br>
+✅Python, Django, Node.js, PHP, Laravel, WordPress<br>
+✅MySQL, MongoDB, PostgreSQL, Firebase<br>
+✅Shopify,  AWS, GCP, Heroku, Digital Ocean<br>
+✅C++, C#, R, Matlab<br>
+✅TensorFlow, Pytorch, Pandas, NumPy<br>
+✅Metatrader, Ninjatrader, Tradingview<br>
 
 My strengths is always trying to research, think, and solve problems and output great work that is excellent in functionality.
 
