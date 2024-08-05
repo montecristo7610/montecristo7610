@@ -1,5 +1,5 @@
 <a href="https://readme-typing-svg.demolab.com/demo/">
-<img src="https://readme-typing-svg.demolab.com/?lines=%20Fullstack%20and%20AI%20developer;%20%20%207%20years%20of%20experience&font=Fira%20Code&width=350&height=45&color=#2ecc71&vCenter=true&pause=3000&size=16"/></a><br>
+<img src="https://readme-typing-svg.demolab.com/?lines=%20Fullstack%20and%20AI%20developer;%20%20%20Advanced%20mathematician&font=Fira%20Code&width=350&height=45&color=#2ecc71&vCenter=true&pause=3000&size=16"/></a><br>
 I am a highly competent and solution-driven professional Fullstack & AI developer and advanced mathematician with excellent educational background and progressive experience in the field of web application development by delivering exceptional services. 
 
 With over 7 years of experience at the intersection of Web development, AI, and advanced mathematics, I bring a unique blend of technical expertise and analytical skill to every project. 
