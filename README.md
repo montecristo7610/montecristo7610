@@ -1,16 +1,16 @@
-## Hi there 👋
+<img src="GITHUB_BANNER.png">
 
-<!--
-**montecristo7610/montecristo7610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a 4th Year Computer Science Student and I'm in love with Computers since i was a kid. I like Reverse Engineering, First Principle thinking & learning about underlying hardware. moreover, I'm a huge fan of Gaming & Electronic Music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌏 Based in Lahore, Pakistan
+- 📧 Contact me uzairahmednasir@outlook.com
+- 🌱 I’m currently learning Web Development
+- 🔭 I plan to get into Computer Graphics & Deep Learning
+
+### Tech Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,materialui,tailwind,bootstrap,js,react,nextjs,redux,nodejs,express,mongodb,jquery,webpack,git,python,mysql,aws,vercel,linux,postman,julia,vscode)](https://skillicons.dev)
+
+### Creative Tools
+[![My Skills](https://skillicons.dev/icons?i=webflow,wordpress,figma,xd,ps,ai,pr,ae,au,ableton,blender,unreal)](https://skillicons.dev)
