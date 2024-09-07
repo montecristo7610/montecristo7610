@@ -15,7 +15,7 @@ As a seasoned Web and AI Developer and Mathematician, I specialize in creating i
 ✅TensorFlow, Pytorch, Pandas, NumPy<br>
 ✅Metatrader, Ninjatrader, Tradingview<br>
 
-My strengths is always trying to research, think, and solve problems and output great work that is excellent in functionality.
+My strength is always trying to research, think, and solve problems and output great work that is excellent in functionality.
 
 ### Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,sass,materialui,tailwind,bootstrap,js,react,nextjs,redux,nodejs,express,mongodb,jquery,webpack,git,python,mysql,aws,vercel,linux,postman,julia,vscode)](https://skillicons.dev)
